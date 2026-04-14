@@ -1,0 +1,54 @@
+CURRENT DESCRIPTION — POLISHED WITH ADDITIONS
+================================================
+
+Changes marked with >>> arrows:
+
+1. "eleven" → "twelve" (fix)
+2. Added "About the Author" and "What Claude Saves You" section before the closing line
+
+
+FULL DESCRIPTION — paste this into KDP:
+================================================
+
+Most people who try Claude walk away thinking it was useful but not life-changing. They were not wrong — they just never learned how to use it properly.
+
+This is the book that changes that.
+
+Get to Know Claude is the only guide written for ordinary people — not developers, not tech specialists — who want to go from complete beginner to confident, capable Claude user. No technical jargon. No overwhelm. Just a clear, warm, practical guide written for real people with real things to accomplish.
+
+>>> CHANGED: eleven → twelve
+In twelve practical chapters you will learn exactly how Claude thinks, why most people get poor results and how to fix that immediately, and how to use AI to get more done across every area of your work and personal life.
+
+Inside this book you will discover:
+
+• Why your questions are not working — and the simple shift that changes everything
+• How to write emails, proposals, books, and blog posts in a fraction of the time without losing your voice
+• The conductor and orchestra technique that gets Claude to match your thinking exactly. You are the conductor; Claude is the orchestra.
+• How to use Cowork — Claude's autonomous mode — to organize your chaos and deliver finished work while you step away
+• Practical ways to use Claude for health questions, financial documents, and the hard moments most people face alone
+• How to build a professional website for your business or personal story in an afternoon for under twenty dollars — without learning HTML
+• How to design and 3D print physical objects by describing them in plain language — no CAD training required
+• The truth about Claude's limits — what it cannot do, where it goes wrong, and how to protect yourself
+• How to learn any subject — language, history, sports, music, science — at any age, with the most patient teacher you will ever have
+• How to build a lasting partnership with AI that serves you rather than controls you
+
+Whether you are a small business owner who needs help with the parts of the business that consume your time, a writer who has been putting off the book inside you, or a complete beginner who does not know where to start — this book meets you exactly where you are.
+
+No technical background required. No prior AI experience needed. On the Kindle app, tap the headphones icon to listen rather than read — the author wrote it that way.
+
+>>> NEW SECTION STARTS HERE:
+
+The author spent fifty years in hardware and software — from punch card computing to Carnegie Mellon University, where he holds an honorary appointment as Adjunct System Scientist. He has previously published books on Dragon NaturallySpeaking and Microsoft SAPI. This book brings that same practical teaching style to AI.
+
+One chapter alone could save you hundreds of dollars. Learn how to arrive prepared for a lawyer, understand what your doctor just said, organize your finances before meeting an accountant, or build a website that would have cost thousands at an agency. Real savings, real examples, real numbers — all inside.
+
+>>> NEW SECTION ENDS HERE
+
+The blank page is not as intimidating as it used to be. The orchestra is ready. What would you like to play?
+
+
+================================================
+KDP HTML VERSION — paste this into the HTML editor:
+================================================
+
+<b>Most people who try Claude walk away thinking it was useful but not life-changing. They were not wrong — they just never learned how to use it properly.</b><br><br>This is the book that changes that.<br><br><i>Get to Know Claude</i> is the only guide written for ordinary people — not developers, not tech specialists — who want to go from complete beginner to confident, capable Claude user. No technical jargon. No overwhelm. Just a clear, warm, practical guide written for real people with real things to accomplish.<br><br>In twelve practical chapters you will learn exactly how Claude thinks, why most people get poor results and how to fix that immediately, and how to use AI to get more done across every area of your work and personal life.<br><br><b>Inside this book you will discover:</b><br><br>• Why your questions are not working — and the simple shift that changes everything<br>• How to write emails, proposals, books, and blog posts in a fraction of the time without losing your voice<br>• The conductor and orchestra technique that gets Claude to match your thinking exactly. <b>You are the conductor; Claude is the orchestra.</b><br>• How to use Cowork — Claude's autonomous mode — to organize your chaos and deliver finished work while you step away<br>• Practical ways to use Claude for health questions, financial documents, and the hard moments most people face alone<br>• How to build a professional website for your business or personal story in an afternoon for under twenty dollars — without learning HTML<br>• How to design and 3D print physical objects by describing them in plain language — no CAD training required<br>• The truth about Claude's limits — what it cannot do, where it goes wrong, and how to protect yourself<br>• How to learn any subject — language, history, sports, music, science — at any age, with the most patient teacher you will ever have<br>• How to build a lasting partnership with AI that serves you rather than controls you<br><br><b>Whether you are a small business owner who needs help with the parts of the business that consume your time, a writer who has been putting off the book inside you, or a complete beginner who does not know where to start — this book meets you exactly where you are.</b><br><br>No technical background required. No prior AI experience needed. On the Kindle app, tap the headphones icon to listen rather than read — the author wrote it that way.<br><br><b>About the Author</b><br>The author spent fifty years in hardware and software — from punch card computing to Carnegie Mellon University, where he holds an honorary appointment as Adjunct System Scientist. He has previously published books on Dragon NaturallySpeaking and Microsoft SAPI. This book brings that same practical teaching style to AI.<br><br>One chapter alone could save you hundreds of dollars. Learn how to arrive prepared for a lawyer, understand what your doctor just said, organize your finances before meeting an accountant, or build a website that would have cost thousands at an agency. Real savings, real examples, real numbers — all inside.<br><br><b>The blank page is not as intimidating as it used to be. The orchestra is ready. What would you like to play?</b>
